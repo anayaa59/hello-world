@@ -1,5 +1,4 @@
 hello-world
-===========
 $ mkdir ~/ hello-worldhello-world
 $ CD ~/ hello- world
 $ git init
