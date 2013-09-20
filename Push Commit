@@ -1,0 +1,2 @@
+$ got remote add origin http://github.com/Arturo/hello-world.git
+$ git push origin master
